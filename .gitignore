@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.venv/
+output/
+__pycache__/
+
+# Local paper corpora (not tracked — add PDFs on your machine only)
+pdfs/papers-meditation/
+pdfs/papers-sound/
+pdfs/extracted/papers-meditation__*.txt
+pdfs/extracted/papers-sound__*.txt
